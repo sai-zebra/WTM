@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wtm-api-application/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wtm-api-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wtm-api-feednotes/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wtm-api-feeds/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wtm-api-rtm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wtm-api-sessions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wtm-api-surveys/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wtm-api-users/src/main/java" charset="UTF-8" />
+  </component>
+</project>
